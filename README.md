@@ -150,16 +150,6 @@ sudo ubuntu-drivers autoinstall
 3.https://www.youtube.com/watch?v=tEh1RfmbTBY  # Windows 10/11 and UBUNTU
 4.https://www.youtube.com/watch?v=7r4ODIKNKHU #Windows 11 and Ubuntu on PC in Telugu
 5.https://www.youtube.com/watch?v=OWi5Mcwrycs  #windows 10 and ubuntu
-=======
-
-
-🎥 [How to Dual Boot Ubuntu 24.04 LTS and Windows 10/11](https://www.youtube.com/watch?v=qq-7X8zLP7g)  
-🎥 [How to Dual Boot Ubuntu 22.04 LTS and Windows 10](https://www.youtube.com/watch?v=kjEKOslXjVk&utm_source=chatgpt.com)  
-🎥 [Ubuntu 24.04 LTS and Windows 11](https://www.youtube.com/watch?v=alFosqQ1ang&t=645s)  
-🎥 [Ubuntu 22.04 LTS and Windows 11](https://www.youtube.com/watch?v=QKn5U2esuRk&t=11s)  
-🎥 [Windows 10/11 and Ubuntu](https://www.youtube.com/watch?v=tEh1RfmbTBY)  
-🎥 [Windows 11 and Ubuntu on PC in Telugu](https://www.youtube.com/watch?v=7r4ODIKNKHU)  
-🎥 [Windows 10 and Ubuntu](https://www.youtube.com/watch?v=OWi5Mcwrycs)  
 
 
 
